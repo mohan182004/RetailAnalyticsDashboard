@@ -165,40 +165,4 @@ npm run build
 npm run preview
 ```
 
-## Project Structure
 
-```
-TruEstate_Proj/
-├── backend/              # Node.js API server
-│   ├── src/
-│   │   ├── config/      # Database configuration
-│   │   ├── models/      # Mongoose schemas
-│   │   ├── routes/      # API endpoints
-│   │   └── index.js     # Entry point
-│   └── scripts/         # Utility scripts
-├── frontend/            # React application
-│   ├── src/
-│   │   ├── components/  # React components
-│   │   ├── services/    # API services
-│   │   └── styles/      # CSS files
-│   └── public/          # Static assets
-└── docs/                # Documentation
-    └── architecture.md  # System architecture
-```
-
-## Features
-
-- 📊 **Interactive Dashboard** - Charts for category sales, top products, brands, regions, payment methods, and trends
-- 🔍 **Advanced Search** - Real-time search by customer name and phone number
-- 🎯 **Multi-Dimensional Filtering** - Filter by region, gender, category, payment method, tags, age, and date
-- 📄 **Paginated Data Table** - Efficient browsing of large transaction datasets
-- 📈 **KPI Cards** - Track total units sold, revenue, and discounts
-- 🎨 **Modern UI** - Clean, responsive design with Tailwind CSS
-
-## Documentation
-
-For detailed architecture information, see [`docs/architecture.md`](./docs/architecture.md)
-
-## License
-
-This project is part of a technical assignment for TruEstate.
