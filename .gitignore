@@ -1,0 +1,39 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data Files
+*.csv
+*.xlsx
+*.xls
+
+# Temporary Files
+.tmp/
+temp/
+
+# Package Lock (optional - uncomment if you want to ignore)
+# package-lock.json
