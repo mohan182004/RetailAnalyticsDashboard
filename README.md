@@ -1,4 +1,4 @@
-# TruEstate Retail Analytics Dashboard
+# Retail Analytics Dashboard
 
 A full-stack retail analytics dashboard built with React and Node.js, featuring interactive data visualization and advanced filtering capabilities for transaction data analysis.
 
